@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Nuxt JS, Node JS and many more.
 
-💬 Ask me aanything via direct message on my social media.
+💬 Ask me anything via direct message on my social media.
 <!--
 **pujakesuma/pujakesuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
