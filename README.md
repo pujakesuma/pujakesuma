@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Propertinext, Indonesia's startup based in Jakarta.
+🔭 I’m currently working for PT Lawencon Internasional as Front End Developer in Jakarta.
 
-🌱 I’m currently learning Nuxt JS, Node JS and many more.
+🌱 My current stack is Vue JS, Nuxt JS, and Go.
 
 💬 Ask me anything via direct message on my social media.
 <!--
