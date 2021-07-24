@@ -4,7 +4,9 @@
 
 🌱 My current stack is Vue JS / Nuxt JS.
 
-💬 Ask me anything via direct message on my social media.
+💬 Ask me anything via direct message on my social media or you can check my personal website (currently under development) below 👇
+
+https://ahmadridwan.netlify.app
 <!--
 **pujakesuma/pujakesuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
