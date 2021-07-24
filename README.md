@@ -2,7 +2,7 @@
 
 🔭 I’m currently working for PT Lawencon Internasional as Front End Developer in Jakarta.
 
-🌱 My current stack is Vue JS, Nuxt JS, and Go.
+🌱 My current stack is Vue JS / Nuxt JS.
 
 💬 Ask me anything via direct message on my social media.
 <!--
