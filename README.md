@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello👋
 
-🔭 I’m currently working for PT Lawencon Internasional as Front End Developer in Jakarta.
+a Front End Developer
 
-🌱 My current stack is Vue JS / Nuxt JS.
+🌱 Vue JS / Nuxt JS
 
 💬 Ask me anything via direct message on my social media or you can check my personal website (currently under development) below 👇
 
