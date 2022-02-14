@@ -6,7 +6,7 @@ a Front End Developer
 
 💬 Ask me anything via direct message on my social media or you can check my personal website (currently under development) below 👇
 
-https://ahmadridwan.netlify.app
+https://ahmadridwan.id
 <!--
 **pujakesuma/pujakesuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
