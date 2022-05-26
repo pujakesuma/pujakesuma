@@ -4,7 +4,7 @@ a Front End Developer
 
 🌱 Vue JS / Nuxt JS
 
-💬 Ask me anything via direct message on my social media or you can check my personal website (currently under development) below 👇
+💬 Ask me anything via direct message on my social media or you can check my personal website below 👇
 
 https://ahmadridwan.id
 <!--
