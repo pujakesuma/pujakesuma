@@ -1,6 +1,6 @@
 ### Hello👋
 
-a Front End Developer
+Front End Developer
 
 🌱 Vue JS / Nuxt JS
 
