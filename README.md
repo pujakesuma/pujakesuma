@@ -1,10 +1,12 @@
 ### Hello👋
 
-Front End Developer
+Software Engineer who focused on front-end web development.
 
-🌱 Vue JS / Nuxt JS
+💬 Experienced with Vue JS / Nuxt JS
+🌱 Currently learning React, TypeScript and Go
 
-💬 Ask me anything via direct message on my social media or you can check my personal website below 👇
+
+📫 Ask me anything via direct message on my social media or you can check my personal website below 👇
 
 https://ahmadridwan.id
 <!--
