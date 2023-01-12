@@ -3,6 +3,7 @@
 Software Engineer who focused on front-end web development.
 
 💬 Experienced with Vue JS / Nuxt JS
+
 🌱 Currently learning React, TypeScript and Go
 
 
